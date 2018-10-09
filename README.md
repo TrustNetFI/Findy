@@ -1,8 +1,6 @@
-![SSI-logo](.SSI-logo.png)
-# FIndy
+![SSI-logo](https://https://github.com/TrustNetFI/FIndy/blob/master/SSI-logo.png)
 
-## What is FIndy?
-
+# What is FIndy?
 FIndy stands for Finnish Indy network, a locally governed and run decentralised ledger. Its target is to enable pilot use cases and services with use of self-sovereign identifiers in Finland. Operation of the ledger is facilitated by FIndy community, whose members commit to running the ledger operations according to their roles and liabilities. 
 
 A decentralised identity ledger consists of a limited set of public, permissioned nodes that when run together as a decentralised system are responsible for 
@@ -12,41 +10,38 @@ A decentralised identity ledger consists of a limited set of public, permissione
 
 The FIndy ledger, run first as a test network and sandbox for pilots, appended eventually with a production version for commercial use potentially with a different name, will be operated and coordinated by local legal entities that i) commit to maintain the network and its nodes along the initial FIndy governance rules under development during 2018, and ii) agree to work in good faith towards setting up a joint, long-term ledger infrastructure project that stands responsible for operating the distributed ledger. 
 
-From technical standpoint the ledger is based on open source decentralised ledger technology from Linux Foundation’s [Hyperledger Indy](https://www.hyperledger.org/projects/hyperledger-indy) project.
+From technical standpoint the ledger is based on open source decentralised ledger technology from Linux Foundation’s [Hyperledger Indy](https://www.hyperledger.org/projects/hyperledger-indy) project. Whilst no infrastructure project exists in the industry yet, the [TrustNet project](http://trustnet.fi/) is facilitating agile coordination and governance materials creation for FIndy during 4Q of 2018. 
 
-Whilst no infrastructure project exists in the industry yet, the [TrustNet project](http://trustnet.fi/) is facilitating agile coordination and governance materials creation for FIndy during 4Q of 2018. For more information or to register your participation in setting up FIndy, contact [harri.honko@tut.fi](smtp://harri.honko@tut.fi), Tel. [+358 40 5331437](tel:+358-40-5331437).
+For more information or to register your participation in setting up FIndy, contact [harri.honko@tut.fi](smtp://harri.honko@tut.fi), Tel. [+358 40 5331437](tel:+358-40-5331437).
 
 Test version of the ledger is assumed to be operational by 3-4 December 2018, at Slush 2018, and target is to release a public web site and PR about FIndy at that time.
 
-## FIndy as a test sandbox
-
+# FIndy as a test sandbox
 FIndy’s first realisation is intended to enable joint R&D testing of industry and public sector origin SSI service concepts in a safe Sandbox environment. Services can be dealing with publishing identifiers and related data to ledger, issuing verifiable credentials, or providing access control to data sources (such as data behind an API) through end user wallet services.
 
-All FIndy nodes in the test network are supposed to function as consensus validators (also known as Stewards in Sovrin terminology) and MUST agree to governance rules set in agreements package known as Sandbox FIndy Trust Framework. 
+All FIndy nodes in the test network are supposed to function as consensus validators (also known as Stewards in Sovrin terminology) and therefore need to agree to the governance rules set in agreements package known as Sandbox FIndy Trust Framework. 
 
 Due to existing circumstances with pseudonymous identifiers of natural persons and new privacy regulation in EU (General Data Protection Regulation, 2016/679) entities that choose to be present on the ledger with their public identifier (DID) or will be writing information to the ledger through their Indy agent are expected to be cautious in use of the ledger for storing permanent identifiers, and adhere to a specific code of conduct when testing their services in the Sandbox.
 
 FIndy does not provide a wallet/agent project, service developers are here referred to the Indy community and development tools available therein.
 
-## FIndy as a production ledger
-
+# FIndy as a production ledger
 Future production version is going to be scaled technically to be robust and secure enough for public, commercial SSI services. Thus, it will have stringent uptime and SLA requirements and business liabilities set for the operators of production ledger nodes. The Production ledger governance agreements, ‘FIndy Production Trust Framework Agreements’ will be developed during 2019-20.
 
-## Governance Agreements
-
+# Governance agreements
 FIndy Trust Framework will specify governance agreements for a) _business/legal_ and b) _technical_ governance of the ledger infrastructure operations, separate agreements package being used for Sandbox and Production environments. 
 
 Web links to the agreements will be added below as they become available. 
 
 Specific Trust Framework Agreements can be applied for various services in need of domain specific (vertical) trust agreements, that would control trust roles and semantic models of domain specific credentials. When such services use the ledger infrastructure of FIndy they need to ensure their use is compliant with the underlying infrastructure’s governance.
 
-### Sandbox Governance
-[ ] Business and Legal Agreement Draft 2018
-[x] Technical Agreement Draft 2018
+## Sandbox Governance - Sandbox FIndy Trust Framework
+[Business and Legal Agreement Draft 2018](https://https://github.com/TrustNetFI/FIndy/blob/master/Docs/Agreements/FIndy-BLA.md)
+[Technical Agreement Draft 2018](https://https://github.com/TrustNetFI/FIndy/blob/master/Docs/Agreements/FIndy-TA.md)
 
-### Production Governance
-[ ] Business and Legal Agreement
-[ ] Technical Agreement
+## Production Governance
+Business and Legal Agreement - N/A
+Technical Agreement - N/A
 
 
 <!-- 
