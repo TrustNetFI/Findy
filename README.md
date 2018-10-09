@@ -1,4 +1,4 @@
-![SSI-logo](https://https://github.com/TrustNetFI/FIndy/blob/master/SSI-logo.png)
+![SSI-logo](https://github.com/TrustNetFI/FIndy/blob/master/Docs/SSI-logo.png)
 
 # What is FIndy?
 FIndy stands for Finnish Indy network, a locally governed and run decentralised ledger. Its target is to enable pilot use cases and services with use of self-sovereign identifiers in Finland. Operation of the ledger is facilitated by FIndy community, whose members commit to running the ledger operations according to their roles and liabilities. 
@@ -36,8 +36,8 @@ Web links to the agreements will be added below as they become available.
 Specific Trust Framework Agreements can be applied for various services in need of domain specific (vertical) trust agreements, that would control trust roles and semantic models of domain specific credentials. When such services use the ledger infrastructure of FIndy they need to ensure their use is compliant with the underlying infrastructure’s governance.
 
 ## Sandbox Governance - Sandbox FIndy Trust Framework
-[Business and Legal Agreement Draft 2018](https://https://github.com/TrustNetFI/FIndy/blob/master/Docs/Agreements/FIndy-BLA.md)
-[Technical Agreement Draft 2018](https://https://github.com/TrustNetFI/FIndy/blob/master/Docs/Agreements/FIndy-TA.md)
+[Business and Legal Agreement Draft 2018](https://github.com/TrustNetFI/FIndy/blob/master/Docs/Agreements/FIndy-BLA.md)
+[Technical Agreement Draft 2018](https://github.com/TrustNetFI/FIndy/blob/master/Docs/Agreements/FIndy-TA.md)
 
 ## Production Governance
 Business and Legal Agreement - N/A
