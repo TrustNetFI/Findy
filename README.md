@@ -30,7 +30,7 @@ FIndy does not provide a wallet/agent project, service developers are here refer
 Future production version is going to be scaled technically to be robust and secure enough for public, commercial SSI services. Thus, it will have stringent uptime and SLA requirements and business liabilities set for the operators of production ledger nodes. The Production ledger governance agreements, ‘FIndy Production Trust Framework Agreements’ will be developed during 2019-20.
 
 # Governance agreements
-FIndy Trust Framework will specify governance agreements for a) **business/legal** and b)**technical** governance of the ledger infrastructure operations, separate agreements package being used for Sandbox and Production environments. 
+FIndy Trust Framework will specify governance agreements for a) **business/legal** and b) **technical** governance of the ledger infrastructure operations, separate agreements package being used for Sandbox and Production environments. 
 
 Web links to the agreements will be added below as they become available. 
 
