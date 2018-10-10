@@ -18,34 +18,37 @@ For more information or to register your participation in setting up FIndy, cont
 Test version of the ledger is assumed to be operational by 3-4 December 2018, at Slush 2018, and target is to release a public web site and PR about FIndy at that time.
 
 
-# FIndy as a test sandbox
-FIndy’s first realisation is intended to enable joint R&D testing of industry and public sector origin SSI service concepts in a safe Sandbox environment. Services can be dealing with publishing identifiers and related data to ledger, issuing verifiable credentials, or providing access control to data sources (such as data behind an API) through end user wallet services.
+# FIndy as a Sandbox
+FIndy’s first realisation is intended to enable joint R&D testing of industry and public sector origin SSI service concepts in a safe sandbox environment. Sandbox comes with two versions - lightweight development ledger (‘dev-sandbox’) and access controlled test ledger (‘test-sandbox’). Services can be dealing with publishing identifiers and related data to ledger, issuing verifiable credentials, or providing access control to data sources (such as data behind an API) through end user wallet services.
 
-All FIndy nodes in the test network are supposed to function as consensus validators (also known as Stewards in Sovrin terminology) and therefore need to agree to the governance rules set in agreements package known as Sandbox FIndy Trust Framework. 
+All FIndy nodes in the test sandbox are supposed to function as consensus validators (also known as Stewards in Sovrin terminology) and MUST agree to lightweight governance rules set in agreements package known as Sandbox FIndy Trust Framework. 
 
-Due to existing circumstances with pseudonymous identifiers of natural persons and new privacy regulation in EU (General Data Protection Regulation, 2016/679) entities that choose to be present on the ledger with their public identifier (DID) or will be writing information to the ledger through their Indy agent are expected to be cautious in use of the ledger for storing permanent identifiers, and adhere to a specific code of conduct when testing their services in the Sandbox.
+Due to existing circumstances with pseudonymous identifiers of natural persons and new privacy regulation in EU (General Data Protection Regulation, 2016/679) legal entities that choose to be present on the test ledger with their public identifier (DID) or will be writing information to the ledger through their Indy agent are expected to be cautious in use of the ledger for storing permanent identifiers, and adhere to a specific code of conduct when testing their services in the Sandbox. 
 
-FIndy does not provide a wallet/agent project, service developers are here referred to the Indy community and development tools available therein.
+Open-to-all development ledger will be reset daily.
 
-
-# FIndy as a production ledger
-Future production version is going to be scaled technically to be robust and secure enough for public, commercial SSI services. Thus, it will have stringent uptime and SLA requirements and business liabilities set for the operators of production ledger nodes. The Production ledger governance agreements, ‘FIndy Production Trust Framework Agreements’ will be developed during 2019-20.
+FIndy does not provide a wallet/agent or agency project, service developers are here referred to the Indy community and code assets and development tools available therein.
 
 
-# Governance agreements
-FIndy Trust Framework will specify governance agreements for a) **business/legal** and b) **technical** governance of the ledger infrastructure operations, separate agreements package being used for Sandbox and Production environments. 
+# FIndy as a Production Ledger
+Future production version ledger will be scaled technically to be robust and secure enough for public, commercial SSI services. Thus, it will have stringent uptime and SLA requirements and business liabilities set for the operators of production ledger nodes.
 
-Web links to the agreements will be added below as they become available. 
 
-Specific Trust Framework Agreements can be applied for various services in need of domain specific (vertical) trust agreements, that would control trust roles and semantic models of domain specific credentials. When such services use the ledger infrastructure of FIndy they need to ensure their use is compliant with the underlying infrastructure’s governance.
+# Governance Agreements
+FIndy Trust Framework will specify governance agreements for a) **business/legal** and b) **technical governance** of the ledger infrastructure operations, separate agreements package being used for Sandbox and Production environments. Former will be lightweight and promote easy access to building pilots, but will define a liability for gross misuses of the environment.
 
-## Sandbox governance - Sandbox FIndy Trust Framework
+Web links to the agreements will be added to this document as they become available. 
+
+Specific Trust Framework Agreements can be applied for various services in need of domain specific (vertical) trust agreements, that would control trust roles and semantic models of domain specific credentials. When such services use the ledger infrastructure of FIndy they need to ensure their use is compliant with the underlying infrastructure governance.
+
+
+## Sandbox Governance - Sandbox FIndy Trust Framework
 
 [Business and Legal Agreement Draft 2018](https://github.com/TrustNetFI/FIndy/blob/master/Docs/Sandbox-FIndy-Business-and-Legal-Agreement.md)
 
 [Technical Agreement Draft 2018](https://github.com/TrustNetFI/FIndy/blob/master/Docs/Sandbox-FIndy-Technical-Agreement.md)
 
-## Production governance
+## Production Governance
 
 Business and Legal Agreement - N/A
 
