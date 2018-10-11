@@ -1,6 +1,7 @@
 # What is FIndy?
 
 <!--![SSI-logo](https://raw.githubusercontent.com/TrustNetFI/FIndy/master/img/SSI-logo.png)
+-->
 
 FIndy stands for Finnish Indy network, a locally governed and run decentralised ledger. Its target is to enable pilot use cases and services with use of self-sovereign identifiers in Finland. Operation of the ledger is facilitated by FIndy community, whose members commit to running the ledger operations according to their roles and liabilities. 
 
