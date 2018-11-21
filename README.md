@@ -45,10 +45,14 @@ Specific Trust Framework Agreements can be applied for various services in need 
 ## Sandbox Governance
 
 Business and Legal Agreement - TBA
-<!--[Business and Legal Agreement Draft 2018](https://github.com/TrustNetFI/FIndy/blob/master/Docs/Sandbox-FIndy-Business-and-Legal-Agreement.md)-!>
+<!--
+[Business and Legal Agreement Draft 2018](https://github.com/TrustNetFI/FIndy/blob/master/Docs/Sandbox-FIndy-Business-and-Legal-Agreement.md)
+-->
 
 Technical Agreement - TBA
-<!--[Technical Agreement Draft 2018](https://github.com/TrustNetFI/FIndy/blob/master/Docs/Sandbox-FIndy-Technical-Agreement.md)--!>
+<!--
+[Technical Agreement Draft 2018](https://github.com/TrustNetFI/FIndy/blob/master/Docs/Sandbox-FIndy-Technical-Agreement.md)
+-->
 
 ## Production Governance
 
