@@ -15,7 +15,7 @@ From technical standpoint the ledger is based on open source decentralised ledge
 
 For more information or to register your participation in setting up FIndy, contact [harri.honko@tut.fi](smtp://harri.honko@tut.fi), Tel. [+358 40 5331437](tel:+358-40-5331437).
 
-Test version of the ledger is assumed to be operational by 3-4 December 2018, at Slush 2018, and target is to release a public web site and PR about FIndy at that time.
+Test version of the ledger is assumed to be operational by week of Slush 2018 taking place in Helsinki on 4-5 December 2018.
 
 
 # FIndy as a Sandbox
@@ -35,24 +35,26 @@ Future production version ledger will be scaled technically to be robust and sec
 
 
 # Governance Agreements
-FIndy Trust Framework will specify governance agreements for a) **business/legal** and b) **technical governance** of the ledger infrastructure operations, separate agreements package being used for Sandbox and Production environments. Former will be lightweight and promote easy access to building pilots, but will define a liability for gross misuses of the environment.
+FIndy Trust Framework will specify governance agreements for a) **business/legal** and b) **technical governance** of the ledger infrastructure operations, separate agreements package being used for Sandbox and Production environments. Former will be lightweight and promote easy access to building pilots, but will define a liability for gross misuse of the environment.
 
 Web links to the agreements will be added to this document as they become available. 
 
 Specific Trust Framework Agreements can be applied for various services in need of domain specific (vertical) trust agreements, that would control trust roles and semantic models of domain specific credentials. When such services use the ledger infrastructure of FIndy they need to ensure their use is compliant with the underlying infrastructure governance.
 
 
-## Sandbox Governance - Sandbox FIndy Trust Framework
+## Sandbox Governance
 
-[Business and Legal Agreement Draft 2018](https://github.com/TrustNetFI/FIndy/blob/master/Docs/Sandbox-FIndy-Business-and-Legal-Agreement.md)
+Business and Legal Agreement - TBA
+<!--[Business and Legal Agreement Draft 2018](https://github.com/TrustNetFI/FIndy/blob/master/Docs/Sandbox-FIndy-Business-and-Legal-Agreement.md)-!>
 
-[Technical Agreement Draft 2018](https://github.com/TrustNetFI/FIndy/blob/master/Docs/Sandbox-FIndy-Technical-Agreement.md)
+Technical Agreement - TBA
+<!--[Technical Agreement Draft 2018](https://github.com/TrustNetFI/FIndy/blob/master/Docs/Sandbox-FIndy-Technical-Agreement.md)--!>
 
 ## Production Governance
 
-Business and Legal Agreement - N/A
+Business and Legal Agreement - TBA
 
-Technical Agreement - N/A
+Technical Agreement - TBA
 
 
 <!-- 
