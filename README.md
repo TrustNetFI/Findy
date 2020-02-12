@@ -12,9 +12,9 @@ A decentralised identity ledger consists of a limited set of public, permissione
 
 The Findy ledger, run first as a test network and sandbox for pilots will be operated and coordinated by local legal entities that i) commit to maintain the network and its nodes along the initial Findy governance rules under development during 2019-20, and ii) agree to work in good faith towards setting up a joint, long-term ledger infrastructure project that stands responsible for operating the distributed ledger. Entities are expected to cover their own operational and development related costs. Result of the first phase will mature eventually with a production ledger for commercial use, potentially with a different name. 
 
-Operations are facilitated by Findy consortium, whose members commit to running the ledger operations according to above principles and later according to their roles and liabilities defined in the Findy's future governance rulebook. Findy has in its initial phase a nominated Board consisting of the founding member representatives and potential Board-nominated executive, legal and technical Advisers. Consortium has an open Consortium Agreement and it accepts and welcomes new additional members according to the agreement's basic approval rules. For more information on consortium terms, or to register your interest in Findy community, contact [markus.hautala@tieto.coom](smtp://markus.hautala@tieto.com), Tel. [+358 40 182 4299](tel:+358-40 182 4299‬). 
+Operations are facilitated by Findy consortium, whose members commit to running the ledger operations according to above principles and later according to their roles and liabilities defined in the Findy's future governance rulebook. Findy has in its initial phase a nominated Board consisting of the founding member representatives and potential Board-nominated executive, legal and technical Advisers. Consortium has an open Consortium Agreement and it accepts and welcomes new additional members according to the agreement's basic approval rules. For more information on consortium terms, or to register your interest in Findy community, contact [markus.hautala@tieto.com](smtp://markus.hautala@tieto.com), Tel. [+358 40 182 4299](tel:+358-40 182 4299‬). 
 
-From technical standpoint the Findy ledger is based on open source decentralised ledger technology from Linux Foundation’s recently Production Ready -labeled [Hyperledger Indy](https://www.hyperledger.org/projects/hyperledger-indy) project. Technicalities of Indy compatible Wallet apps and so called Agents are a topic the Findy community will document by end of 2019.
+From technical standpoint the Findy ledger is based on open source decentralised ledger technology from Linux Foundation’s [Hyperledger Indy](https://www.hyperledger.org/projects/hyperledger-indy) project. Technicalities of compatible Wallet apps and so called Agents are a topic the Findy community will document out in 2020.
 
 # Findy as a Sandbox
 Findy’s intention is to enable joint R&D testing of public-private self-sovereign identity service concepts in a safe sandbox environment. Sandbox comes with two versions - lightweight development ledger (‘dev-sandbox’) and access controlled test ledger (‘test-sandbox’). Services can include publishing identifiers and related data to ledger, issuing verifiable credentials, or providing access control to data sources (such as data behind an API) through end user wallet/agent services. 
@@ -27,8 +27,9 @@ Due to existing circumstances with pseudonymous identifiers of natural persons a
 
 Open-to-all development ledger will be reset infrequently, so it's intended for quick testing, not for hosting permanent pilots with their data.
 
+<!--
 Findy does not initially provide a wallet/agent or agency project, service developers are for starters referred to the Aries agent community's [code assets](https://github.com/hyperledger/aries) and development tools recommended therein.
-
+-->
 
 # Findy as a Production Ledger
 Future Production Ledger will be scaled technically to be robust and secure enough for public, commercial SSI services. Thus, it will have stringent uptime and SLA requirements and business liabilities set for the operators of its validator nodes. Governance will follow the future Findy Operational Governance Rulebook.
